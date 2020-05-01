@@ -1,0 +1,2 @@
+2020-04-11T02:03:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.3.2-2\apps\wordpress\htdocs\wp-content\plugins\woocommerce\includes\tracks\class-wc-tracks-event.php on line 10
+

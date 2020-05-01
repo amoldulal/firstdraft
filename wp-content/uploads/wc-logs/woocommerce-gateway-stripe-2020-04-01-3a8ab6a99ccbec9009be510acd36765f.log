@@ -1,0 +1,42 @@
+2020-04-01T08:01:53+00:00 DEBUG 
+====Stripe Version: 4.3.2====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2020-04-01T08:10:57+00:00 DEBUG 
+====Stripe Version: 4.3.2====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2020-04-01T08:11:11+00:00 DEBUG 
+====Stripe Version: 4.3.2====
+====Start Log====
+Keys are not set correctly.
+====End Log====
+
+
+2020-04-01T08:14:30+00:00 DEBUG 
+====Stripe Version: 4.3.2====
+====Start Log====
+Domain association file updated.
+====End Log====
+
+
+2020-04-01T08:14:30+00:00 DEBUG 
+====Stripe Version: 4.3.2====
+====Start Log====
+Error: Unable to verify domain - missing secret key.
+====End Log====
+
+
+2020-04-01T08:38:01+00:00 DEBUG 
+====Stripe Version: 4.3.2====
+====Start Log====
+Error: Unable to verify domain - missing secret key.
+====End Log====
+
+
